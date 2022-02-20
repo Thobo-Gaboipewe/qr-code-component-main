@@ -20,10 +20,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
 #### Desktop design
-![](.screenshots/desktop-screenshot.png)
+![](./screenshots/desktop-screenshot.png)
 
 #### Mobile design
-![](.screenshots/mobile-screenshot.png)
+![](./screenshots/mobile-screenshot.png)
 
 ### Links
 
@@ -46,7 +46,7 @@ I would like to focus more on web application development with Flask.
 
 ### Useful resources
 
-- [Mozilla Developer Network](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [Mozilla Developer Network](https://www.developer.mozilla.org)
 
 ## Author
 
